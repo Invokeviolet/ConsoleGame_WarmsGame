@@ -1,0 +1,8 @@
+C:\Users\user\Downloads\지렁이_4차\지렁이게임_4차\bin\Debug\0719_지렁이게임.exe.config
+C:\Users\user\Downloads\지렁이_4차\지렁이게임_4차\bin\Debug\0719_지렁이게임.exe
+C:\Users\user\Downloads\지렁이_4차\지렁이게임_4차\bin\Debug\0719_지렁이게임.pdb
+C:\Users\user\Downloads\지렁이_4차\지렁이게임_4차\obj\Debug\지렁이게임_4차.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\지렁이_4차\지렁이게임_4차\obj\Debug\지렁이게임_4차.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\지렁이_4차\지렁이게임_4차\obj\Debug\지렁이게임_4차.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\지렁이_4차\지렁이게임_4차\obj\Debug\0719_지렁이게임.exe
+C:\Users\user\Downloads\지렁이_4차\지렁이게임_4차\obj\Debug\0719_지렁이게임.pdb
